@@ -11,6 +11,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+Experience FaceAttend AI in action through the live web application.
+
+### 🚀 Project Website
+🔗 **Live Demo:** [face-attend-ai-landing-page.vercel.app](https://face-attend-ai-landing-page.vercel.app/)
+
 ## 📑 Table of Contents
 
 - [Description](#-description)
