@@ -196,10 +196,3 @@ flask run
    ```
 
 ---
-
-## 👥 Contributors
-
-Thanks to everyone who has contributed to this project:
-
-<p align="left">
-<a href="https://github.com/codedbydevansh" title="codedbydevansh"><img src="https://avatars.githubusercontent.com/u/155902353?v=4&s=64" width="64" height=
